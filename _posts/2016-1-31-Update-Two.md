@@ -7,4 +7,4 @@ We're learning a lot in the course right now. I, honestly, never really understo
 
 A funny thing happened in class this week: I'm a bit too quiet. Professor Downing called out my name and I responded but he didn't hear. I’m actually a bit petrified of being called on in class, so I’m rather glad he didn’t hear. 
 
-One interesteing tip of the week is a few videos that I found that might be interesting for other students. https://news.ycombinator.com/item?id=11008612 It's a talk done by Yann LeCun of Facebook and Yoshua Bengio about deep learning. It's an exciting time for AI with the Lee Se-dol match coming up!
+One interesteing tip of the week is a few videos that I found that might be interesting for other students. [See HackerNews Post] (https://news.ycombinator.com/item?id=11008612) It's a talk done by Yann LeCun of Facebook and Yoshua Bengio about deep learning. It's an exciting time for AI with the Lee Se-dol match coming up!
