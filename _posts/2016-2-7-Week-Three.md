@@ -17,5 +17,7 @@ The main impediment to me getting started early was work. I’ve had a tremendou
 
 The second project is up now. I’ve already chosen a partner for the project, so we should be able to start on it early. Working on the project this week instead of waiting a week will put us in a position to finish early and get the most out of this class. I chose to take SWE this semester because I wanted to learn better software engineering practices, and I don’t want to squander it by being lazy.
 
+Professor Downing is a fantastic teacher. I'm really enjoying his teaching style. He keeps students engaged in class by randomly calling on students. This keeps us all on our toes and ready every single class. I'm also really enjoying the practical nature of the class. My friends and I were joking about how SWE uses more modern frameworks and software development practices than "Modern Web Applications." I'm really glad that I'm taking this course before I graduate from UT and enter the workforce. I've already learned a substantial amount about how software projects are managed. 
+
 ##Tip-Of-The-Week:
 I found a website last week called livecoding.tv. It’s fantastic for interview prep and as a casual channel to watch when you have a few minutes of downtime. I’ve done coding challenges with people from across the world and learned about different software frameworks that I otherwise wouldn’t have had any exposure to. 
