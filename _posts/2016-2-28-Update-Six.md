@@ -3,8 +3,6 @@ layout: post
 title: Update Six
 ---
 
-#Update Six
-
 ##1. What did you do this past week?
 This past week I worked on school work for Algorithms and I had a rough week with work. I've also had a family tragedy that has forced me to become more disengaged from school. I really don't want to do that because I want to ramp up my ability to learn this semester, but the tragedy is of such a magnitude that I feel as if it is unavoidable. I'm going to try and use school work as a means to distract myself from what's going on. I've also started to select teams for the SWE main project, which is exciting.
 
