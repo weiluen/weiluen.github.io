@@ -20,4 +20,4 @@ Next week our team will setup the github repo and Asana and Slack channels so th
 
 ##tip-of-the-week
 
-Asana - is a fantastic 
+Asana - is a fantastic project management tool. You can try it at asana.com. This is a program that lets you track the progress of a particular project. You can also use it as a hub for communication between the different members of your team. I would say that it is very similar to trello. 
