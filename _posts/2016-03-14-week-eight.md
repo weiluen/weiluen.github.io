@@ -3,9 +3,6 @@ layout: post
 title: Update Eight
 ---
 
-
-#Update Eight
-
 ##1. What did you do this past week?
 
 We've finally setup our groups for SWE. We've setup the slack channels and incorporated the girhub hooks. We've been debating over whether to go with Angular or React as a frontend framework. We've also started to debate how we should split up the work for the project. Some of our team members have more expertise when it comes to backend development and others frontend. Prof. Downing made a good point in class, "if all of your developers are SQL whizzes but no one knows anything else, you'll be in trouble." We're trying to organize our team around that principle.
