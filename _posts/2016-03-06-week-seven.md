@@ -4,8 +4,6 @@ title: Update Seven
 ---
 
 
-#Update Seven
-
 ##1. What did you do this past week?
 
 This past week I've been hard at preparing for the test in SWE. This test was quite challenging and I feel that I could've done better if I had more time on the test. The test really was a good way to evaluate my understanding of SWE at this point. I'm excited to assemble my group and start working on the next project for SWE. I really need to start doing better in the class because I'm worried that we only have two tests in this class. This week I essentially reviewed materials for SWE and tried to get caught up with work.  
